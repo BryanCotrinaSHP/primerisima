@@ -1,4 +1,4 @@
-\## MIS HABILIDADES DE PROGRAMACIÓN SON:
+## MIS HABILIDADES DE PROGRAMACIÓN SON:
 
 
 
@@ -10,7 +10,7 @@ Responsabilidad con trabajos asignados
 
 
 
-\## LENGUAJES
+## LENGUAJES
 
 
 
@@ -18,15 +18,15 @@ No domino por completo un lenguaje solo de manera básica PHP, Java, Phyton y SQ
 
 
 
-\## APLICACIONES
+## APLICACIONES
 
 
 
-Hasta ahora no he desarrollado ninguna app, pero he realizado proyectos académicos donde he simulado menus bancarios, de venta de boletos de avión y creado un pequeño mapa de mi instituto
+Hasta ahora no he desarrollado ninguna app, pero he realizado proyectos académicos donde he simulado menu de un banco, de venta de boletos de avión y creado un pequeño mapa de mi instituto
 
 
 
-\## EXPERIENCIAS
+## EXPERIENCIAS
 
 
 
